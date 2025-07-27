@@ -1,4 +1,4 @@
-# Phase 2 Progress Report
+# Phase 2 
 
 ## ✅ Completed
 
@@ -6,7 +6,7 @@
 - Simulated USDC tokens and tested transfers between accounts
 - Defined core logic for sending and claiming funds
 
-## 🔜 Next Steps (Planned for Final Tranche)
+## 🔜 Next Steps 
 
 - Move escrow logic to Anchor and deploy on Devnet
 - Connect to basic front-end for wallet interaction
