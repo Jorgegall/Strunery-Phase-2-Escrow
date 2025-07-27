@@ -1,6 +1,6 @@
-# Phase 2 
+# Phase 2 Escrow
 
-## ✅ Completed
+## ✅ Escrow Completed
 
 - Deployed an escrow smart contract in Solana Playground
 - Simulated USDC tokens and tested transfers between accounts
